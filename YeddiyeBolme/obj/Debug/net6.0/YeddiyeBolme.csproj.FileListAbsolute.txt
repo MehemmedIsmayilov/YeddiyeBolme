@@ -1,0 +1,15 @@
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\bin\Debug\net6.0\YeddiyeBolme.exe
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\bin\Debug\net6.0\YeddiyeBolme.deps.json
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\bin\Debug\net6.0\YeddiyeBolme.runtimeconfig.json
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\bin\Debug\net6.0\YeddiyeBolme.dll
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\bin\Debug\net6.0\YeddiyeBolme.pdb
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.csproj.AssemblyReference.cache
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.AssemblyInfoInputs.cache
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.AssemblyInfo.cs
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.csproj.CoreCompileInputs.cache
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.dll
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\refint\YeddiyeBolme.dll
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.pdb
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\YeddiyeBolme.genruntimeconfig.cache
+C:\Users\Mehemmed\source\repos\YeddiyeBolme\YeddiyeBolme\obj\Debug\net6.0\ref\YeddiyeBolme.dll
